@@ -4,7 +4,7 @@ Automate web browsing, clicking, and validation with Python and Selenium."
 
 ## Features
 
-- Open websites
+- Open websites (http://qxf2.com/selenium-tutorial-main)
 - Fill out forms
 - Click buttons
 - Hover over elements
